@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nwakaegoaac
+- 👋 Hi, I’m Nwakaego Anayo-Chukwu
 - 👀 I’m interested in ...coding,Python, R, building softwares 
 - 🌱 I’m currently learning ... Python and R
 - 💞️ I’m looking to collaborate on ...anyone who wants to grow in the data science world 
